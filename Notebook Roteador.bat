@@ -2,6 +2,21 @@
 title Notebook Roteador by Davi Wesley
 color 0a
 :menu
+echo                                 ______________
+echo                           ,===:'.,            `-._
+echo                                `:.`---.__         `-._
+echo                                  `:.     `--.         `.
+echo                                    \.        `.         `.
+echo                            (,,(,    \.         `.   ____,-`.,
+echo                         (,'     `/   \.   ,--.___`.'
+echo                     ,  ,'  ,--.  `,   \.;'         `
+echo                      `{D, {    \  :    \;
+echo                        V,,'    /  /    //
+echo                        j;;    /  ,' ,-//.    ,---.      ,
+echo                        \;'   /  ,' /  _  \  /  _  \   ,'/
+echo                              \   `'  / \  `'  / \  `.' /
+echo                               `.___,'   `.__,'   `.__,'  Notebook Roteador
+echo                                                        by Davi Wesley
  echo                    .-------------------------------------------.
  echo                    .                MENU                       .
  echo                    . 1. Criar e Executar roteador              .

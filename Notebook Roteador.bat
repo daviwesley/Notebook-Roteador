@@ -25,7 +25,7 @@ echo                                                        by Davi Wesley
  echo                    . 4. Ver senhas de Wifi                     .
  echo                    . 5. Sair ou aperte (Ctrl+c)                .
  echo                    .-------------------------------------------.
- echo                    by Davi Wesley e-mail: davi.wesley@icloud.com
+ echo                          e-mail: davi.wesley@icloud.com
  echo.
 set /p opcao=Digite o numero da opcao:
  if %opcao% ==1 goto criar

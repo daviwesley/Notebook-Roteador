@@ -1,5 +1,5 @@
 @echo off
-title Notebook Roteador by Davi Wesley
+title Notebook Roteador
 color 0a
 :menu
 echo                                 ______________
@@ -84,6 +84,7 @@ set /p opcao=Digite o numero da opcao:
  goto menu
  
 :sair
+ netsh wlan stop hostednetwork
  echo Tchauuuuuuuuuuuuuu!!!
  exit
 
